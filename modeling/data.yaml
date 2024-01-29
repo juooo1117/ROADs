@@ -1,0 +1,20 @@
+names:
+  0: etc
+  1: PE드럼 정상
+  2: PE드럼 파손
+  3: PE방호벽 정상
+  4: PE방호벽 파손
+  5: PE안내봉 정상
+  6: PE안내봉 파손
+  7: 라바콘 정상
+  8: 라바콘 파손
+  9: 시선유도봉 정상
+  10: 시선유도봉 파손
+  11: 제설함 정상
+  12: 제설함 파손
+  13: PE입간판 정상
+  14: PE입간판 파손
+  15: PE휀스 정상
+  16: PE휀스 파손
+train: /content/drive/MyDrive/FinalProject/train_2/
+val: /content/drive/MyDrive/FinalProject/dataset/evaluation/
