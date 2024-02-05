@@ -22,6 +22,6 @@ Road Obstacle AI Detection service
 
 ### Inference Logic
 <p align="center">
-  <img src="https://github.com/jsj5605/ROADs/assets/95035134/4bd41722-4adc-4c4c-af46-7de706afec77" width="650" height="100">
+  <img src="https://github.com/jsj5605/ROADs/assets/95035134/4bd41722-4adc-4c4c-af46-7de706afec77" width="800" height="600">
 </p>
 
