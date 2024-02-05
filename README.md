@@ -7,7 +7,7 @@ Road Obstacle AI Detection service
 ### Dataset
 
 ```
-.json dataset
+.json dataset (image 1개에 annotation 여러개 존재)
 ├─ image                  
 │   ├─ id                 
 │   ├─ width              # 1920
@@ -19,4 +19,9 @@ Road Obstacle AI Detection service
     ├─ category_id        # class name
     └─ bbox               # 좌상단x, 좌상단y, bbox의 W, bbox의 H
 ```
-** image 1개에 annotation 여러개 존재
+
+### Inference Logic
+<p align="center">
+  <img src="https://github.com/jsj5605/ROADs/assets/95035134/4bd41722-4adc-4c4c-af46-7de706afec77" width="650" height="100">
+</p>
+
