@@ -24,4 +24,3 @@ Road Obstacle AI Detection service
 <p align="center">
   <img src="https://github.com/jsj5605/ROADs/assets/95035134/4bd41722-4adc-4c4c-af46-7de706afec77">
 </p>
-
