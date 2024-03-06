@@ -51,12 +51,10 @@ YOLOv8의 바운딩박스  [x_center, y_center, width, height] 형식과 수집�
   -  개별 category를 살펴보아도, 대부분의 category mAP 값이 1차 모델 대비 2차모델에서 상승한 것을 볼 수 있다.
 
 
-
 ## Inference Logic
 <p align="center">
   <img src="https://github.com/jsj5605/ROADs/assets/95035134/4bd41722-4adc-4c4c-af46-7de706afec77">
 </p>
-
 
 ## Project & Member
 #### [Period] 2024. 1. 10. ~ 2024. 2. 5.
