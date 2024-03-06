@@ -5,6 +5,15 @@ Road Obstacle AI Detection service
 - 따라서 운전자들이 사용하는 네비게이션 기반으로, 그들의 주행경로에서 파손 시설물을 자동으로 탐지 후 프로그램 상에서 정보를 관리하는 방법을 사용하여, 빠르게 쾌적한 도로 환경을 구현하고 사고를 방지하고자 한다.
 
 
+## Project & Member
+#### [Period] 2024. 1. 10. ~ 2024. 2. 5.
+#### 👩🏻‍💻 Team Member
+- 조성준(PM, DB설계, 데이터 수집)
+- 박주현(데이터 수집 및 정제, 모델 학습 및 평가, Inference code 설계, DB 연동)
+- 이신철(데이터 수집 및 정제, 모델 학습, Tracking code 설계, Flask 구현)
+- 이장한(웹페이지 개발, DB구축, Back-end)
+
+  
 ## Dataset
 AI HUB: 지자체 도로부속시설물 파손 데이터(도로부속시설물 정상 및 파손 → 총 16개 클래스)
 
@@ -55,12 +64,4 @@ YOLOv8의 바운딩박스  [x_center, y_center, width, height] 형식과 수집�
 <p align="center">
   <img src="https://github.com/jsj5605/ROADs/assets/95035134/4bd41722-4adc-4c4c-af46-7de706afec77">
 </p>
-
-## Project & Member
-#### [Period] 2024. 1. 10. ~ 2024. 2. 5.
-#### 👩🏻‍💻 Team Member
-- 조성준(PM, DB설계, 데이터 수집)
-- 박주현(데이터 수집 및 정제, 모델 학습 및 평가, Inference code 설계, DB 연동)
-- 이신철(데이터 수집 및 정제, 모델 학습, Tracking code 설계, Flask 구현)
-- 이장한(웹페이지 개발, DB구축, Back-end)
 
